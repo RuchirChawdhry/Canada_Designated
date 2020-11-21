@@ -1,2 +1,2 @@
-# Canada_Designated
-Scraping Canada's Designated Institution List
+# canada-dli
+Scraping Canada's Designated Learning Institution List
